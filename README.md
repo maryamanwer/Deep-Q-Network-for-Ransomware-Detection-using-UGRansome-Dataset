@@ -85,6 +85,5 @@ Ransomware continues to be one of the most serious cyber threats. Traditional de
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/dqn-ransomware-detection.git
-cd dqn-ransomware-detection
-pip install -r requirements.txt
+https://github.com/maryamanwer/Deep-Q-Network-for-Ransomware-Detection-using-UGRansome-Dataset
+
